@@ -1,7 +1,7 @@
 # Credit_Card_Transactions_Dashborad
 Power BI  dashboard
 
-Project objective : To develop a comprehensive credit card weekly dashboard that provides real=time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operatoins effectively
+Project objective : To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operatoins effectively
 
  steps : import data from csv to sql 
  and import  to power bi to create interactive dashboard
