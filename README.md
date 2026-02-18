@@ -8,8 +8,8 @@ Project objective : To develop a comprehensive credit card weekly dashboard that
  
  insights : WoW change: 
 • Revenue increased by 28.8%, 
-• Total Transaction Amt & Count increased by xx% & xx% 
-• Customer count increased by xx% 
+• Total Transaction Amt 35.0% 
+
 Overview YTD: 
 • Overall revenue is 57M 
 • Total interest is 8M 
